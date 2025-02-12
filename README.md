@@ -13,6 +13,7 @@ Skills Learned
 Tools Used
 
 -Security Information and Event Management (SIEM) system for log ingestion and analysis.
+
 -Network analysis tools 
 
 Steps
